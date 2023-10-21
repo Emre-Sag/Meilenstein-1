@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="de.ticketsystem.webtech.WebtechApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-21T12:45:45" hostname="MacBook-Pro.fritz.box" time="0.39">
+  <properties/>
+  <testcase name="contextLoads()" classname="de.ticketsystem.webtech.WebtechApplicationTests" time="0.39"/>
+  <system-out><![CDATA[14:45:44.787 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [de.ticketsystem.webtech.WebtechApplicationTests]: WebtechApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+14:45:44.841 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration de.ticketsystem.webtech.WebtechApplication for test class de.ticketsystem.webtech.WebtechApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.5)
+
+2023-10-21T14:45:44.995+02:00  INFO 16575 --- [    Test worker] d.t.webtech.WebtechApplicationTests      : Starting WebtechApplicationTests using Java 17.0.5 with PID 16575 (started by macos in /Users/macos/Documents/Programmieren/Webtechnologien/Ticketsystem)
+2023-10-21T14:45:44.996+02:00  INFO 16575 --- [    Test worker] d.t.webtech.WebtechApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2023-10-21T14:45:45.517+02:00  INFO 16575 --- [    Test worker] d.t.webtech.WebtechApplicationTests      : Started WebtechApplicationTests in 0.615 seconds (process running for 1.201)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
